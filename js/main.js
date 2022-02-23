@@ -10,9 +10,9 @@ x = borish+mehmonxona+muzey;
 
 if (info >= x)
 {
-    console.log("Oq yo'l, Alisher!");
+    console.log(alert("Oq yo'l, Alisher!"));
 }
 else
 {
-    console.log("Alisher, ozgina sabr qilish kerak bo'lar ekan.");
+    console.log(alert("Alisher, ozgina sabr qilish kerak bo'lar ekan."));
 }
